@@ -190,3 +190,4 @@
 .explorer-section .race-head h3{font-size:20px;letter-spacing:-.3px;margin-top:7px}
 @media(max-width:720px){.rt-demo{margin-top:24px;padding:17px 14px 2px;border-radius:5px}.rt-head{display:block}.rt-head h2{font-size:19px}.rt-head p{font-size:12px}.rt-side{flex-direction:row;align-items:center;justify-content:space-between;margin-top:10px}.rt-clock{text-align:left}.rt-lanes{grid-template-columns:1fr;gap:10px}.rt-text{height:130px;font-size:8px}.rt-stats b{font-size:24px}}
 .authors a:hover{text-decoration:underline}
+@media(max-width:720px){.rt-side{flex-wrap:wrap;row-gap:8px}.rt-flip{display:flex;width:100%}.rt-flip button{flex:1;padding:5px 6px}}
